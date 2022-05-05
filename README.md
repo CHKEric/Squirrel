@@ -21,8 +21,8 @@ Github Pages URL： chkeric.github.io/Squirrel/
 Github Open Source Project URL： https://github.com/CHKEric/Squirrel/
 Github开源项目URL：https://github.com/CHKEric/Squirrel/
 
-开始游戏的网址：https://chkeric.github.io/Squirrel/Squirrel/Mouse.html
-URL to start the game: https://chkeric.github.io/Squirrel/Squirrel/Mouse.html
+开始游戏的网址：https://chkeric.github.io/Squirrel/Squirrel/Game.html
+URL to start the game: https://chkeric.github.io/Squirrel/Squirrel/Game.html
 
 If the language is different, please use translation software or the browser's own translation, Microsoft Edge, Opera, FireFox and Google Chrome are recommended.
 
